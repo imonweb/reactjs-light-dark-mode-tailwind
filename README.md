@@ -1,1 +1,1 @@
-# dark-light-website-starter
+# React JS light/dark mode with tailwind css
